@@ -1,2 +1,0 @@
-# BrainHack_WebGL
-
