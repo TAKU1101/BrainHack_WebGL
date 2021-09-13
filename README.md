@@ -2,8 +2,8 @@
 
 It's a game about brainf**k.
 
-[code](https://github.com/TAKU1101/BF_game)   
-[play](https://taku1101.github.io/BrainHack_WebGL/)
+[code](https://github.com/sk-uma/BF_game)   
+[play](https://sk-uma.github.io//BrainHack_WebGL/)
 
 ## Screen Shot
 
